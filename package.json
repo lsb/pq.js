@@ -1,0 +1,5 @@
+{
+  "name": "pq.js",
+  "version": "0.1.0",
+  "description": "Using embeddings compressed by Product Quantization, in Javascript"
+}
